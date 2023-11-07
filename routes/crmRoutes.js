@@ -1,5 +1,5 @@
 import express from 'express';
-import Contact from './model/crmModel.js';
+import Contact from '../model/crmModel.js';
 
 const route = express.Router();
 
